@@ -6,6 +6,14 @@
 - Faqih
 - Sahid V.
 
-### Deskripsi tugas :
+### prerequisite :
 
-Membuat pemrograman converter citra digital
+- install pip
+- install module `open-cv`
+  `pip install opencv-python`
+- install module `numpy`
+  `pip install numpy`
+- install module `scikit-image`
+  `pip install scikit-image`
+- install module `matplotlib`
+  `pip install matplotlib`
