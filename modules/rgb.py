@@ -9,7 +9,7 @@ asoy2 = ''
 def getInputImage():
     global asoy, asoy2
     inputImage = input('Masukan nama gambar: ')
-    pathImage = 'images/input/'+ inputImage
+    pathImage = 'images/'+ inputImage
     image = skimage.io.imread(fname=pathImage)
     image2 = cv.imread(pathImage)
     asoy = image
